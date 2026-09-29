@@ -5,7 +5,8 @@ int main (){
 
     resultado = x + y;
 
-    print("Resultado adicao: %d", resultado);
+    printf("Resultado adicao: %d", resultado);
+    printf("sla");
 
 
 
